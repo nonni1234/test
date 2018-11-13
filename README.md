@@ -1,1 +1,1 @@
-[Gamers](test/epic.html)
+[Gamers](/test/epic.html)
